@@ -1,0 +1,23 @@
+#### Pico8 Basic ####
+
+working root path : C:\Users\ "your name" \AppData\Roaming\pico-8\carts
+config file path : C:\Users\rxx78\AppData\Roaming\pico-8\config.txt
+
+more info link : https://www.lexaloffle.com/pico-8.php?page=manual
+
+
+
+if you want change "root path".
+open "config.txt"
+find "root_path"
+...and do that
+
+
+
+# Basic Command Prompt
+- cls : Clear screen
+- ls/dir : Lists the files in the current working directory of the cartridge storage area.
+- cd : Changes the current working directory.
+- cd .. : Move to parent directory.
+
+more info link : https://pico-8.fandom.com/wiki/CommandReference
