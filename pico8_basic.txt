@@ -19,5 +19,7 @@ find "root_path"
 - ls/dir : Lists the files in the current working directory of the cartridge storage area.
 - cd : Changes the current working directory.
 - cd .. : Move to parent directory.
+- folder : Open "root_path"
+- help : Show commands
 
 more info link : https://pico-8.fandom.com/wiki/CommandReference
